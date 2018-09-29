@@ -1,5 +1,7 @@
 # JeanLogger
 
+This is a fast and dirty example of spyware.
+
 ## Note
 
 I am not responsible for the use of this code.
